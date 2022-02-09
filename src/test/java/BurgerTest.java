@@ -19,7 +19,6 @@ import static org.mockito.Mockito.*;
 public class BurgerTest {
     Bun bun = mock(Bun.class);
     Ingredient ingredient = mock(Ingredient.class);
-    //List<Ingredient> ingredientList = mock(ArrayList.class);
 
 
     @Test
